@@ -1,0 +1,60 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+
+body{
+	background-image: url('https://images.unsplash.com/photo-1508778552286-12d4c6007799?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b252d2788419e72d5671fbe43a6ff5f7&auto=format&fit=crop&w=1350&q=80');
+    width: 100%,
+}
+
+h1{
+	text-align: center;
+	font-family:  Georgia, Helvetica, Times, serif;
+	font-size: 50px;
+	color: #ffffff;
+}
+
+button{
+
+	background-color: #8a2727;
+	color: #ffffff;
+	border-radius:2px;
+	padding:5px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+	border: solid #096070 2px;
+}
+
+#add-movie {
+	background-color: #8a2727;
+	color: #ffffff;
+	border-radius: 2px;
+	padding:5px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+	border: solid #000000 2px;
+}
+
+label{
+	font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+}
+
+
+img{
+	height: auto;
+	width:auto;
+	border-radius: 10px;
+	border: 2px;
+}
+
+p{
+	font-family: Georgia, helvetica, serif;
+	color: #ffffff;
+	margin-left:100px;
+	clear: both;
+}
